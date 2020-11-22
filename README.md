@@ -1,5 +1,5 @@
 # STMPE811.h
-A simple single-header STMPE811/STMPE610 driver using HAL with 2-point calibration and averaging
+A simple single-header STMPE811/STMPE610 driver using HAL with 2-point calibration and averaging  
 Beware: HAL error handling is not very pretty, can be made better
 
 Usage:
